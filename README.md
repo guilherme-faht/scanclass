@@ -3,7 +3,7 @@
 Search all classes in a directory.
 
 > Status
-[![Build Status](https://travis-ci.org/guilherme-faht/scanclass.svg?branch=master)]
+![Build Status](https://travis-ci.org/guilherme-faht/scanclass.svg?branch=master)
 
 
 > Example
