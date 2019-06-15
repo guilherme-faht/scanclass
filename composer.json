@@ -1,0 +1,33 @@
+{
+  "name": "reactboot/scanclass",
+  "type": "library",
+  "description": "Search all classes in a directory.",
+  "keywords": [
+    "php",
+    "scan",
+    "reactboot"
+  ],
+  "homepage": "http://www.reactboot.com.br",
+  "authors": [
+    {
+      "name": "Guilherme Faht",
+      "email": "gurus.gui@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "phpunit"
+  },
+  "require": {
+    "php": ">=7.2",
+    "nikic/php-parser": "^4.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ReactBoot\\ScanClass\\": "lib/ReactBoot/ScanClass"
+    }
+  }
+}
