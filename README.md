@@ -2,6 +2,9 @@
 
 Search all classes in a directory.
 
+> Status
+https://travis-ci.org/guilherme-faht/scanclass.svg?branch=master
+
 > Example
 
 ```php
